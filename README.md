@@ -5,10 +5,15 @@ User Manager is a simple web application built using React and TypeScript. It al
 To install the application, follow these steps:
 
 1.Clone the repository using git clone <repo-url>.
+  
 2.Install dependencies by running npm install.
+  
 3.Install json-server globally using npm install -g json-server.
+  
 4.Start the JSON server by running json-server --watch db.json.
+  
 5.Start the application by running npm start.
+  
 The application will then be available at http://localhost:3000/.
 
 ## Usage
@@ -20,5 +25,5 @@ The application uses a mocked API to provide data for the user list. The data is
 ## Contributing
 Contributions to User Manager are welcome! If you have any suggestions or find any issues, please create a GitHub issue or pull request.
 
-##License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.

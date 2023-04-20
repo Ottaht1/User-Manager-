@@ -1,5 +1,5 @@
 # User Manager
-User Manager is a simple web application built using React and TypeScript. It allows users to view a list of users and select a user to view more details about them.
+User Manager is a simple React application that allows you to manage a list of users and select a user to view more details about them. It is built using TypeScript and a mocked API.
 
 ## Installation
 To install the application, follow these steps:

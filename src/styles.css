@@ -1,0 +1,48 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: #0a4d68;
+}
+
+user-list {
+  margin-top: 20px;
+}
+
+.user-list h2 {
+  text-align: center;
+  color: #088395;
+  margin-bottom: 10px;
+  padding: 10px;
+}
+
+.user-list li {
+  margin-bottom: 10px;
+  padding: 10px;
+  list-style: none; /* remove bullet points */
+}
+
+.user-list button {
+  background-color: #73879c;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 15px;
+  cursor: pointer;
+}
+
+.user-list button:hover {
+  background-color: #05bfdb;
+}
+
+.user-details {
+  margin-top: 20px;
+  color: #00ffca;
+}
+
+.user-details h2 {
+  margin-bottom: 10px;
+}
+
+.user-details p {
+  margin-bottom: 5px;
+}

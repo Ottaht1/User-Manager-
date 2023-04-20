@@ -14,7 +14,7 @@ To install the application, follow these steps:
   
 5.Start the application by running `npm start`.
   
-The application will then be available at http://localhost:3000/.
+
 
 ## Usage
 Once the application is running, you can view the list of users by clicking on the "Users" link in the navigation bar. To view more details about a user, simply click on their name in the list.
